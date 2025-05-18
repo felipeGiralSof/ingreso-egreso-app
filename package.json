@@ -19,6 +19,8 @@
     "@angular/platform-browser": "^19.0.0",
     "@angular/platform-browser-dynamic": "^19.0.0",
     "@angular/router": "^19.0.0",
+    "@ngrx/store": "^19.0.1",
+    "@ngrx/store-devtools": "^19.0.1",
     "bootstrap": "^5.3.3",
     "ingreso-egreso-app": "file:",
     "rxjs": "~7.8.0",

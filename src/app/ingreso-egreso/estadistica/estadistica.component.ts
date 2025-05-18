@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-estadistica',
-  standalone: false,
+  standalone: true,
   templateUrl: './estadistica.component.html',
   styleUrl: './estadistica.component.css'
 })
